@@ -33,7 +33,7 @@ Install the dependencies and devDependencies and start the server.
 cd select-share-place
 npm i
 npm run start
-``
+```
 
 ## React Todo
 It is a web application that let you create and delete todo
@@ -49,4 +49,20 @@ cd reacjs-typescript
 npm i
 npm run build
 npm run start
+```
+
+## Node API of todo
+
+It is a API that contain a CRUD of Todo
+
+## Installation
+
+Node API of todo requires [TypeScript](https://www.typescriptlang.org/), [NodeJS](https://nodejs.org/en/).
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd node-express-typescript
+npm i
+npm run dev
 ```
