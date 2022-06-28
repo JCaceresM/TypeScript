@@ -4,7 +4,7 @@
 
 ## Drag and Drop
 
-It is a web aplication that let you crate projects, you can drag and drop this proyect into a **ACTIVE** AND **INACTIVE** sections.
+It is a web application that let you crate projects, you can drag and drop this project into a **ACTIVE** AND **INACTIVE** sections.
 
 ## Installation
 
@@ -34,3 +34,19 @@ cd select-share-place
 npm i
 npm run start
 ``
+
+## React Todo
+It is a web application that let you create and delete todo
+
+## Installation
+
+react todo requires [TypeScript](https://www.typescriptlang.org/).
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+cd reacjs-typescript
+npm i
+npm run build
+npm run start
+```
